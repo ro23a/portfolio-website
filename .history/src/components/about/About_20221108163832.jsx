@@ -35,8 +35,11 @@ const About = () => {
           </div>
           <p>I'm Rawan. A self motivated junior web developer with excellent knowledge in HTML, CSS, JS, jQuery, and Bootstrap. I thrive on innovation and overcoming challenges and most importantly, the best user experience. I'm very attentive to details and I'm able to multitask and juggle multiple pressing projects simultaneously.
 
-            I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning; a person who is trustworthy, responsible, respects deadlines and knows that customer’s satisfaction is the key to success.
-            </p>
+I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning; a person who is trustworthy, responsible, respects deadlines and knows that customer’s satisfaction is the key to success. I can guarantee:
+- Friendly and excellent communication skills. (I have experience in customer service)
+- Hand-coded, valid and well organized clean code.
+- Unlimited revisions until your ultimate satisfaction.
+- After-contract support.</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

@@ -13,7 +13,7 @@ const Header = () => {
         <CTA />
         <HeaderSocials />
         <div className='me'>
-          <img className='img__size1' src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-123318,resizemode-1,msid-91981821/small-biz/sme-sector/online-coding-platform-for-students-curiousjr-to-organise-all-india-coding-championship.jpg" alt="me" />
+          <img className="img__size" "src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-123318,resizemode-1,msid-91981821/small-biz/sme-sector/online-coding-platform-for-students-curiousjr-to-organise-all-india-coding-championship.jpg" alt="me" />
         </div>
         <a href='#contact' className='scroll__down'>Scroll Down</a>
       </div>

@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 9rem;
     overflow: hidden;
 }
 .header__container {
@@ -29,18 +29,19 @@ header {
     height: 2rem;
     background: var(--color-primary);
 }
- .me { 
+.me {
+    background-color: rgb(25, 25, 26);
+    /* background: linear-gradient(var(--color-primary), transparent); */
     width: 22rem;
-    height: 30rem;
+    height: 60rem;
     position: absolute;
     align-items: center;
     left: calc(50% - 11rem);
-    margin-top: 8rem;
+    margin-top: 4rem;
+    margin-bottom: 0rem;
+    border-radius: 12rem 12rem 6rem 6rem ; 
     overflow: hidden;
-} 
-img.img__size1{
-   
-    border-radius: 50%;
+    padding: 0rem 0rem 0rem 0rem;  
 }
 .scroll__down {
     position: absolute;

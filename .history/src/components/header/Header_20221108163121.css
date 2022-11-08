@@ -35,10 +35,10 @@ header {
     position: absolute;
     align-items: center;
     left: calc(50% - 11rem);
-    margin-top: 8rem;
+    margin-top: 4rem;
     overflow: hidden;
 } 
-img.img__size1{
+img {
    
     border-radius: 50%;
 }

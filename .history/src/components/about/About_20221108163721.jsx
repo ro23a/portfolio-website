@@ -33,10 +33,9 @@ const About = () => {
               <small>20+ Completed</small>
             </article>
           </div>
-          <p>I'm Rawan. A self motivated junior web developer with excellent knowledge in HTML, CSS, JS, jQuery, and Bootstrap. I thrive on innovation and overcoming challenges and most importantly, the best user experience. I'm very attentive to details and I'm able to multitask and juggle multiple pressing projects simultaneously.
-
-            I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning; a person who is trustworthy, responsible, respects deadlines and knows that customer’s satisfaction is the key to success.
-            </p>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis justo id varius dignissim. Quisque eu lectus nec sapien accumsan euismod sit amet ut ligula. Vivamus elit mauris, luctus in rhoncus nec, scelerisque in libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi lobortis luctus ligula a egestas. Fusce sit amet commodo eros. Morbi odio dolor, laoreet quis ipsum id, feugiat accumsan justo. Curabitur tincidunt vestibulum pellentesque. Proin blandit eleifend dolor nec malesuada. Phasellus at lobortis nisl. Sed facilisis dolor purus, at tristique ligula tristique a. Maecenas vitae metus leo. Duis sapien felis, sollicitudin quis eros nec. 
+          </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

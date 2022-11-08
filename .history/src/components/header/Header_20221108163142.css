@@ -38,7 +38,7 @@ header {
     margin-top: 8rem;
     overflow: hidden;
 } 
-img.img__size1{
+img {
    
     border-radius: 50%;
 }

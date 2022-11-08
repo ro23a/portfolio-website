@@ -29,17 +29,25 @@ header {
     height: 2rem;
     background: var(--color-primary);
 }
- .me { 
+/* .me {
+    background-color: rgb(18, 18, 19);
+    background: linear-gradient(var(--color-primary), transparent); 
     width: 22rem;
-    height: 30rem;
+    height: 50rem;
     position: absolute;
     align-items: center;
     left: calc(50% - 11rem);
-    margin-top: 8rem;
+    margin-top: 4rem;
     overflow: hidden;
-} 
-img.img__size1{
-   
+     padding: 5rem 1.5rem 1.5rem 1.5rem;
+} */
+img {
+    width: 22rem;
+    height: 20rem;
+    position: absolute;
+    align-items: center;
+    left: calc(50% - 11rem);
+    margin-top: 4rem;
     border-radius: 50%;
 }
 .scroll__down {

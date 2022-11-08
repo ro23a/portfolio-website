@@ -30,16 +30,15 @@ header {
     background: var(--color-primary);
 }
  .me { 
-    width: 22rem;
+    width: 25rem;
     height: 30rem;
     position: absolute;
     align-items: center;
     left: calc(50% - 11rem);
-    margin-top: 8rem;
+    margin-top: 4rem;
     overflow: hidden;
 } 
-img.img__size1{
-   
+img {
     border-radius: 50%;
 }
 .scroll__down {

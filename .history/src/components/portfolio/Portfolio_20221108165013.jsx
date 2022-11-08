@@ -16,9 +16,9 @@ const Portfolio = () => {
           <div className='port-item-image'>
             <img src={IMG1} alt='' />
           </div>
-          <h3>E-commerce Shop</h3>
+          <h3>Aamazon Clone</h3>
           <div className='port-item-cta'>
-            <a href='https://github.com/ro23a/E-commerce-shop' className='btn' target='_blank'>GitHub</a>
+            <a href='https://github.com' className='btn' target='_blank'>GitHub</a>
             <a href='https://dribbble.com/Alien_pixels' className='btn' target='_blank'>Live Demo</a>
           </div>
         </article>
